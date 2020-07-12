@@ -1,6 +1,6 @@
 ![github](https://user-images.githubusercontent.com/38276345/87249987-c3f46880-c494-11ea-843e-669846ca9834.gif)
 
-### Hi there! I'm Edison Pebojot  (👋)
+### Hi there! I'm Edison Pebojot  (👋😂😎😆🤨🔥)
 <!--
 **edisonpebojots/edisonpebojots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -34,6 +34,9 @@
     </a>
     <a href="https://twitter.com/edisonpebojots">
       <img src="https://user-images.githubusercontent.com/38276345/87249342-28adc400-c491-11ea-96af-9f33d201dfbd.png" height="30" width="30">
+    </a>
+    <a href="https://stackoverflow.com/users/10233884/edison-pebojot">
+      <img src="https://user-images.githubusercontent.com/38276345/87250480-9bba3900-c497-11ea-83b7-86d02a25ec39.png" alt="Edison Pebojot's DEV Profile" height="30" width="30">
     </a>
     <a href="https://dev.to/edisonpebojots">
       <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Edison Pebojot's DEV Profile" height="30" width="30">
