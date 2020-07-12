@@ -13,10 +13,11 @@
 <!-- 💬 Ask me about ...-->
 - __📫 How to reach me:__ pebojot.edison.work@outlook.com
 <!-- 😄 Pronouns: ...-->
-- __⚡ Fun fact:__ It is impossible to lick your elbow. (🙄)
+- __⚡ Fun fact:__ You are reading this
 <!--[![Edison Pebojot's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg=25px)](https://dev.to/edisonpebojots)-->
 
-![Edison's github stats](https://github-readme-stats.vercel.app/api?username=edisonpebojots)
+<!--![Edison's github stats](https://github-readme-stats.vercel.app/api?username=edisonpebojots)-->
+
 [![JavaScript Data Structures and Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=Apress&repo=js-data-structures-and-algorithms)](https://github.com/Apress)
 [![The Practical Developer](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev)
 [![CMDER](https://github-readme-stats.vercel.app/api/pin/?username=cmderdev&repo=cmder)](https://github.com/cmderdev)
