@@ -22,6 +22,7 @@
 [![CMDER](https://github-readme-stats.vercel.app/api/pin/?username=cmderdev&repo=cmder)](https://github.com/cmderdev)
 [![Tensorflow](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=tensorflow)](https://github.com/tensorflow)
 [![Electron](https://github-readme-stats.vercel.app/api/pin/?username=electron&repo=electron)](https://github.com/electron)
+[![VScode](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=vscode)](https://github.com/microsoft)
 
 <dl>
   <dd>
