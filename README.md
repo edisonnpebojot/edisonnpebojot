@@ -19,7 +19,7 @@
 <!--![Edison's github stats](https://github-readme-stats.vercel.app/api?username=edisonpebojots)-->
 
 [![JavaScript Data Structures and Algorithms](https://github-readme-stats.vercel.app/api/pin/?username=Apress&repo=js-data-structures-and-algorithms)](https://github.com/Apress)
-[![The Practical Developer](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev)
+[![The Practical Developer](https://github-readme-stats.vercel.app/api/pin/?username=forem&repo=forem)](https://github.com/forem)
 [![CMDER](https://github-readme-stats.vercel.app/api/pin/?username=cmderdev&repo=cmder)](https://github.com/cmderdev)
 [![Tensorflow](https://github-readme-stats.vercel.app/api/pin/?username=tensorflow&repo=tensorflow)](https://github.com/tensorflow)
 [![Electron](https://github-readme-stats.vercel.app/api/pin/?username=electron&repo=electron)](https://github.com/electron)
