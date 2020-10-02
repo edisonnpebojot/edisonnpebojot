@@ -11,9 +11,9 @@
 <!-- 👯 I’m looking to collaborate on ...-->
 <!-- 🤔 I’m looking for help with ...-->
 <!-- 💬 Ask me about ...-->
-- __📫 How to reach me:__ pebojot.edison.work@gmail.com
+- __📫 Business Email:__ pebojot.edison.work@gmail.com
 <!-- 😄 Pronouns: ...-->
-- __⚡ Fun fact:__ You are reading this
+<!-- __⚡ Fun fact:__ You are reading this-->
 <!--[![Edison Pebojot's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg=25px)](https://dev.to/edisonpebojots)-->
 
 <!--![Edison's github stats](https://github-readme-stats.vercel.app/api?username=edisonpebojots)-->
@@ -28,7 +28,7 @@
 <dl>
   <dd>
     <a href="https://dev.to/edisonnpebojot">
-      <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Edison Pebojot's DEV Profile" height="30" width="30">
+      <img src="https://svgshare.com/i/Q9n.svg" alt="Edison Pebojot's DEV Profile">
     </a>
   </dd>
 </dl>
