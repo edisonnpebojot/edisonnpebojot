@@ -1,4 +1,4 @@
-![github](https://user-images.githubusercontent.com/38276345/87249987-c3f46880-c494-11ea-843e-669846ca9834.gif)
+![github](https://user-images.githubusercontent.com/38276345/94910463-5413de00-04d7-11eb-8a26-c0b07adb218f.gif)
 
 ### Hi there! I'm Edison Pebojot  (👋😂😎😆🤨🔥)
 <!--
