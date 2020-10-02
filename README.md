@@ -1,6 +1,6 @@
 ![github](https://user-images.githubusercontent.com/38276345/94911469-c33e0200-04d8-11eb-8211-fafebed8d91b.gif)
 
-### (👋😂😎😆🤨🔥)
+<!-- ### (👋😂😎😆🤨🔥)-->
 <!--
 **edisonpebojots/edisonpebojots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -11,7 +11,7 @@
 <!-- 👯 I’m looking to collaborate on ...-->
 <!-- 🤔 I’m looking for help with ...-->
 <!-- 💬 Ask me about ...-->
-- __📫 Business Email:__ pebojot.edison.work@gmail.com
+- 📫: pebojot.edison.work@gmail.com
 <!-- 😄 Pronouns: ...-->
 <!-- __⚡ Fun fact:__ You are reading this-->
 <!--[![Edison Pebojot's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg=25px)](https://dev.to/edisonpebojots)-->
