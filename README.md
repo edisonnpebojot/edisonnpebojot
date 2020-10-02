@@ -28,7 +28,7 @@
 <dl>
   <dd>
     <a href="https://dev.to/edisonnpebojot">
-      <img src="https://svgshare.com/i/Q9n.svg" alt="Edison Pebojot's DEV Profile">
+      <img src="https://svgshare.com/i/Q9n.svg" alt="Edison Pebojot's DEV Profile" height="30px">
     </a>
   </dd>
 </dl>
