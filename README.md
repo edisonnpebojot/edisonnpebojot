@@ -1,6 +1,6 @@
 ![github](https://user-images.githubusercontent.com/38276345/94911469-c33e0200-04d8-11eb-8211-fafebed8d91b.gif)
 
-### Hi there! I'm Edison Pebojot  (👋😂😎😆🤨🔥)
+### Edison Pebojot!  (👋😂😎😆🤨🔥)
 <!--
 **edisonpebojots/edisonpebojots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
