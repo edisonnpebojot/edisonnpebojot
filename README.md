@@ -1,4 +1,4 @@
-![github](https://user-images.githubusercontent.com/38276345/94911469-c33e0200-04d8-11eb-8211-fafebed8d91b.gif)
+<!--![github](https://user-images.githubusercontent.com/38276345/94911469-c33e0200-04d8-11eb-8211-fafebed8d91b.gif)-->
 
 <!-- ### (👋😂😎😆🤨🔥)-->
 <!--
