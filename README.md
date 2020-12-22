@@ -1,13 +1,9 @@
-
-<h1 align="center">Hi 👋, I'm Edison Pebojot</h1>
-<h3 align="center">I am Software Developer from Philippines</h3>
-
 <img src="https://komarev.com/ghpvc/?username=workpebojot&label=Profile%20views&color=0e75b6&style=flat" alt="workpebojot" /> ![!Visitors](https://visitor-badge.laobi.icu/badge?page_id=workpebojot.workpebojot) [![Github](https://img.shields.io/github/followers/workpebojot?label=Follow&style=social)](https://github.com/workpebojot)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=workpebojot" alt="workpebojot" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/workpebojot" target="blank"><img src="https://img.shields.io/twitter/follow/workpebojot?logo=twitter&style=for-the-badge" alt="workpebojot" /></a> </p>
-
+<!-- 
 - 🔭 I’m currently working on [The Vacuum Project](https://github.com/workpebojot/Vacuum)
 
 - 🌱 I’m currently learning **React Native Framework, CodeIgniter and Java Spring**
@@ -26,7 +22,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/workpebojot/](https://www.linkedin.com/in/workpebojot/)
 
-- ⚡ Fun fact **Pizza**
+- ⚡ Fun fact **Pizza** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -51,8 +47,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/workpebojot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="workpebojot" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workpebojot&show_icons=true&locale=en&layout=compact" alt="workpebojot" /></p>
 
-![Edison's github stats](https://github-readme-stats.vercel.app/api?username=workpebojot&count_private=true)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workpebojot&" alt="workpebojot" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workpebojot&theme=tokyonight)](https://github.com/workpebojot/workpebojot)![GitHub stats](https://github-readme-stats.vercel.app/api?username=workpebojot&show_icons=true&theme=tokyonight&count_private=true)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=workpebojot&theme=tokyonight)](https://github.com/workpebojot/github-readme-streak-stats)
