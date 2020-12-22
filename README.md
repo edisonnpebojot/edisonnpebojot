@@ -56,7 +56,7 @@
 <details open>
     <summary>📊📉📈 GitHub Profile Statistics</summary>
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=workpebojot&show_icons=true&locale=en" alt="workpebojot" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=workpebojot&show_icons=true&locale=en&count_private=true" alt="workpebojot" />
     </p>
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workpebojot&show_icons=true&locale=en&layout=compact" alt="workpebojot" />
