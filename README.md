@@ -78,7 +78,7 @@
 ---
 
 <p align="left">
-    Made with love :heart::heart::heart: by **Edison**
+    Made with love :heart::heart::heart: by <b>Edison Pebojot</b>
 </p>
 <p align="left">
     <a href="https://www.buymeacoffee.com/workpebojot">
