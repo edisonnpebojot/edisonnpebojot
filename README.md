@@ -6,6 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/workpebojot" target="blank"><img src="https://img.shields.io/twitter/follow/workpebojot?logo=twitter&style=for-the-badge" alt="workpebojot" /></a> </p>
 
+<details>
+    <summary>:bust_in_silhouette::bust_in_silhouette::bust_in_silhouette: About Edison Pebojot</summary>
+
 - 🔭 I’m currently working on [The Vacuum Project](https://github.com/workpebojot/Vacuum)
 
 - 🌱 I’m currently learning **React Native Framework, CodeIgniter and Java Spring**
@@ -25,6 +28,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/workpebojot/](https://www.linkedin.com/in/workpebojot/)
 
 - ⚡ Fun fact **Pizza**
+</details>
 
 <details open>
     <summary>:iphone::iphone::iphone: Network and Connection</summary>
