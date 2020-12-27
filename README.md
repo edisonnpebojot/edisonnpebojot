@@ -35,14 +35,14 @@
 
 </details>
 <p align="left">
-<a href="https://dev.to/workpebojot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="workpebojot" height="30" width="40" /></a>
-<a href="https://twitter.com/workpebojot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="workpebojot" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/workpebojot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="workpebojot" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1023388<!--  -->4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10233884" height="30" width="40" /></a>
-<a href="https://fb.com/personalpebojot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="personalpebojot" height="30" width="40" /></a>
-<a href="https://medium.com/@workpebojot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@workpebojot" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/workpebojot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="workpebojot" height="30" width="40" /></a>
-<a href="/dev.to/feed/workpebojot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="dev.to/feed/workpebojot" height="30" width="40" /></a>
+<a href="https://dev.to/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103168116-7ebdca80-486b-11eb-8c2e-a6977f2f7464.png" alt="workpebojot" /></a>
+<a href="https://twitter.com/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103168088-4a4a0e80-486b-11eb-82ed-54490ad46730.png" alt="workpebojot" /></a>
+<a href="https://linkedin.com/in/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103168057-1d95f700-486b-11eb-953e-abca7277b531.png" alt="workpebojot"/></a>
+<a href="https://stackoverflow.com/users/10233884/edison-pebojot?tab=profile" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103168229-5d111300-486c-11eb-94dc-1ec5737e156b.png" alt="10233884" /></a>
+<a href="https://fb.com/personalpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103168269-9ba6cd80-486c-11eb-948b-83498fe4194b.png" alt="personalpebojot" /></a>
+<!-- <a href="https://medium.com/@workpebojot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@workpebojot" height="30" width="40" /></a> -->
+<a href="https://www.codewars.com/users/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103167816-6056cf80-4869-11eb-8a8e-cc7f0c13ca32.png" alt="workpebojot" /></a>
+<a href="/dev.to/feed/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103167850-a875f200-4869-11eb-888a-fd2babe23cd9.png" alt="dev.to/feed/workpebojot" /></a>
 </p>
 
 <details>
@@ -52,7 +52,7 @@
 
 <details>
 <summary>:pencil::pencil::pencil: Blogs and Articles</summary>
-### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </details>
@@ -63,7 +63,7 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=workpebojot&show_icons=true&locale=en&count_private=true" alt="workpebojot" />
     </p>
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=workpebojot&layout=compact" alt="workpebojot" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workpebojot&show_icons=true&locale=en&layout=compact" alt="workpebojot" />
     </p>
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workpebojot&" alt="workpebojot" />
@@ -83,6 +83,13 @@
     <summary>:fire::fire::fire: Favorite Project</summary>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmderdev&repo=cmder" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitSquared&repo=edex-ui" />
+</details>
+
+<details open>
+    <summary>:file_folder::triangular_ruler::pencil2: My Project</summary>
+    <a href="https://github.com/workpebojot/Vacuum">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=workpebojot&repo=Vacuum" />
+    </a>
 </details>
 
 ---
