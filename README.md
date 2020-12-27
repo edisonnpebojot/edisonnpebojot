@@ -87,6 +87,7 @@
 
 <details open>
     <summary>:file_folder::triangular_ruler::pencil2: My Project</summary>
+    <br>
     <a href="https://github.com/workpebojot/Vacuum">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=workpebojot&repo=Vacuum" />
     </a>
