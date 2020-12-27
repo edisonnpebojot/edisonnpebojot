@@ -54,6 +54,10 @@
 <summary>:pencil::pencil::pencil: Blogs and Articles</summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building An Architectural Character for Modern Software Architect [Part 3]](https://dev.to/workpebojot/building-an-architectural-character-for-modern-software-architect-part-3-47k3)
+- [Architecting Modules for Software Modularity [Part 2]](https://dev.to/workpebojot/architecting-modules-for-software-modularity-part-2-3bpc)
+- [Software Architectural Thinking for Developers [Part 1]](https://dev.to/workpebojot/software-architectural-thinking-for-developers-part-1-2a34)
+- [Learn Data Structure and Algorithm in JavaScript | Part 20](https://dev.to/workpebojot/learn-data-structure-and-algorithm-in-javascript-part-20-45pb)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
