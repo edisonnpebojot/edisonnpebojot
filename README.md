@@ -67,7 +67,7 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=workpebojot&show_icons=true&locale=en&count_private=true" alt="workpebojot" />
     </p>
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workpebojot&show_icons=true&locale=en&layout=compact" alt="workpebojot" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workpebojot&show_icons=true&locale=en&layout=compact&langs_count=10" alt="workpebojot" />
     </p>
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workpebojot&" alt="workpebojot" />
