@@ -43,7 +43,7 @@
 <a href="https://fb.com/personalpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103168269-9ba6cd80-486c-11eb-948b-83498fe4194b.png" alt="personalpebojot" /></a>
 <!-- <a href="https://medium.com/@workpebojot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@workpebojot" height="30" width="40" /></a> -->
 <a href="https://www.codewars.com/users/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103167816-6056cf80-4869-11eb-8a8e-cc7f0c13ca32.png" alt="workpebojot" /></a>
-<a href="/dev.to/feed/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103167850-a875f200-4869-11eb-888a-fd2babe23cd9.png" alt="dev.to/feed/workpebojot" /></a>
+<a href="https://dev.to/feed/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103167850-a875f200-4869-11eb-888a-fd2babe23cd9.png" alt="dev.to/feed/workpebojot" /></a>
 </p>
 
 <details>
