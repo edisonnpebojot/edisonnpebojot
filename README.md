@@ -89,6 +89,7 @@
 </details>
 -->
 
+<!--
 <details open>
     <summary>:fire::fire::fire: Favorite Project</summary>
     <p>
@@ -98,6 +99,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitSquared&repo=edex-ui" />
     </p>
 </details>
+-->
 
 <details open>
     <summary>:file_folder::triangular_ruler::pencil2: My Project</summary>
