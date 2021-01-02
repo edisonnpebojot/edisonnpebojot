@@ -91,8 +91,12 @@
 
 <details open>
     <summary>:fire::fire::fire: Favorite Project</summary>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmderdev&repo=cmder" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitSquared&repo=edex-ui" />
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmderdev&repo=cmder" />
+    </p>
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitSquared&repo=edex-ui" />
+    </p>
 </details>
 
 <details open>
