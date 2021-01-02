@@ -1,10 +1,11 @@
-<p align="left">
+<!-- <p align="left">
 <img src="https://komarev.com/ghpvc/?username=workpebojot&label=Profile%20views&color=0e75b6&style=flat" alt="workpebojot" />
 <img src="https://visitor-badge.laobi.icu/badge?page_id=workpebojot.workpebojot" alt="workpebojot"  />
 <img src="https://img.shields.io/github/followers/workpebojot?label=Follow&style=social" alt="workpebojot"  />
 </p>
 
 <p align="left"> <a href="https://twitter.com/workpebojot" target="blank"><img src="https://img.shields.io/twitter/follow/workpebojot?logo=twitter&style=for-the-badge" alt="workpebojot" /></a> </p>
+-->
 
 <details>
     <summary>:bust_in_silhouette::bust_in_silhouette::bust_in_silhouette: About Edison Pebojot</summary>
@@ -63,17 +64,21 @@
 
 <details open>
     <summary>:bar_chart::chart_with_downwards_trend::chart_with_upwards_trend: GitHub Profile Statistics</summary>
+    <!--
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=workpebojot&show_icons=true&locale=en&count_private=true" alt="workpebojot" />
     </p>
+    -->
     <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workpebojot&show_icons=true&locale=en&layout=compact&langs_count=10" alt="workpebojot" />
     </p>
+    <!--
     <p>
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workpebojot&" alt="workpebojot" />
     </p>
+-->
 </details>
-
+<!--
 <details open>
     <summary>:star::star::star: GitHub Profile Awards</summary>
     <p align="left">
@@ -82,6 +87,7 @@
         </a>
     </p>
 </details>
+-->
 
 <details open>
     <summary>:fire::fire::fire: Favorite Project</summary>
