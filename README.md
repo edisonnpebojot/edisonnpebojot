@@ -59,7 +59,7 @@
 </details>
     </p>
 
-    <p>
+<p>
 <details>
     <summary>:iphone::iphone::iphone: Network and Connection</summary>
 
