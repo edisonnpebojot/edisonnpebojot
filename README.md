@@ -1,7 +1,7 @@
 <b>:file_folder: Repositories</b>
     <ul>
         <li>
-            <a href="https://github.com/workpebojot/Vacuum/projects/2">
+            <a href="https://github.com/workpebojot/Vacuum">
             Vacuum
             </a>
         </li>
@@ -10,7 +10,7 @@
 <b>:triangular_ruler: Projects</b>
     <ul>
         <li>
-            <a href="https://github.com/workpebojot/Vacuum/projects/2">
+            <a href="https://github.com/users/workpebojot/projects/2">
             Vacuum
             </a>
         </li>
@@ -19,7 +19,7 @@
 <b>:package: Packages</b>
     <ul>
         <li>
-            <a href="https://github.com/workpebojot/Vacuum/projects/2">
+            <a href="https://github.com/workpebojot/Vacuum">
             Vacuum
             </a>
         </li>
