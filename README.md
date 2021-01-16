@@ -22,7 +22,7 @@
 - ⚡ Fun fact **Pizza**
 </details>
 
-<details open>
+<details>
     <summary>:iphone::iphone::iphone: Network and Connection</summary>
 
 <p align="left">
