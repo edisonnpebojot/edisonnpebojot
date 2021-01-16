@@ -1,5 +1,4 @@
-<details open>
-    <summary>:file_folder: Repositories</summary>
+<b>:file_folder: Repositories</b>
     <ul>
         <li>
             <a href="https://github.com/workpebojot/Vacuum/projects/2">
@@ -7,10 +6,8 @@
             </a>
         </li>
     </ul>
-</details>
 
-<details open>
-    <summary>:triangular_ruler: Projects</summary>
+<b>:triangular_ruler: Projects</b>
     <ul>
         <li>
             <a href="https://github.com/workpebojot/Vacuum/projects/2">
@@ -18,10 +15,8 @@
             </a>
         </li>
     </ul>
-</details>
 
-<details open>
-    <summary>:package: Packages</summary>
+<b>:package: Packages</b>
     <ul>
         <li>
             <a href="https://github.com/workpebojot/Vacuum/projects/2">
@@ -29,10 +24,9 @@
             </a>
         </li>
     </ul>
-</details>
 
 <details>
-    <summary>More About Edison Pebojot</summary>
+    <summary><b>More About Edison Pebojot</b></summary>
     <p>
     <details>
     <summary>:bust_in_silhouette::bust_in_silhouette::bust_in_silhouette: About Edison Pebojot</summary>
