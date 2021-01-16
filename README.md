@@ -1,12 +1,3 @@
-<!-- <p align="left">
-<img src="https://komarev.com/ghpvc/?username=workpebojot&label=Profile%20views&color=0e75b6&style=flat" alt="workpebojot" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=workpebojot.workpebojot" alt="workpebojot"  />
-<img src="https://img.shields.io/github/followers/workpebojot?label=Follow&style=social" alt="workpebojot"  />
-</p>
-
-<p align="left"> <a href="https://twitter.com/workpebojot" target="blank"><img src="https://img.shields.io/twitter/follow/workpebojot?logo=twitter&style=for-the-badge" alt="workpebojot" /></a> </p>
--->
-
 <details>
     <summary>:bust_in_silhouette::bust_in_silhouette::bust_in_silhouette: About Edison Pebojot</summary>
 
@@ -34,7 +25,6 @@
 <details open>
     <summary>:iphone::iphone::iphone: Network and Connection</summary>
 
-</details>
 <p align="left">
 <a href="https://dev.to/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103168116-7ebdca80-486b-11eb-8c2e-a6977f2f7464.png" alt="workpebojot" /></a>
 <a href="https://twitter.com/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103168088-4a4a0e80-486b-11eb-82ed-54490ad46730.png" alt="workpebojot" /></a>
@@ -45,6 +35,7 @@
 <a href="https://www.codewars.com/users/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103167816-6056cf80-4869-11eb-8a8e-cc7f0c13ca32.png" alt="workpebojot" /></a>
 <a href="https://dev.to/feed/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103167850-a875f200-4869-11eb-888a-fd2babe23cd9.png" alt="dev.to/feed/workpebojot" /></a>
 </p>
+</details>
 
 <details>
 <summary>:capital_abcd::wrench:🔨 Language and Technologies</summary>
@@ -52,61 +43,34 @@
 </details>
 
 <details open>
-    <summary>:bar_chart::chart_with_downwards_trend::chart_with_upwards_trend: GitHub Profile Statistics</summary>
-    <!--
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=workpebojot&show_icons=true&locale=en&count_private=true" alt="workpebojot" />
-    </p>
-    -->
-    <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workpebojot&show_icons=true&locale=en&layout=compact&langs_count=10" alt="workpebojot" />
-    </p>
-    <!--
-    <p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workpebojot&" alt="workpebojot" />
-    </p>
--->
+    <summary>:file_folder::triangular_ruler::pencil2: Repositories</summary>
+    <ul>
+        <li>
+            <a href="https://github.com/workpebojot/Vacuum/projects/2">
+            Vacuum
+            </a>
+        </li>
+    </ul>
 </details>
-<!--
-<details open>
-    <summary>:star::star::star: GitHub Profile Awards</summary>
-    <p align="left">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=workpebojot" alt="workpebojot" />
-        </a>
-    </p>
-</details>
--->
-
-<!--
-<details open>
-    <summary>:fire::fire::fire: Favorite Project</summary>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cmderdev&repo=cmder" />
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitSquared&repo=edex-ui" />
-    </p>
-</details>
--->
 
 <details open>
-    <summary>:file_folder::triangular_ruler::pencil2: My Project</summary>
-    <br>
-    <a href="https://github.com/workpebojot/Vacuum">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=workpebojot&repo=vacuum" />
-    </a>
+    <summary>:file_folder::triangular_ruler::pencil2: Projects</summary>
+    <ul>
+        <li>
+            <a href="https://github.com/workpebojot/Vacuum/projects/2">
+            Vacuum
+            </a>
+        </li>
+    </ul>
 </details>
 
----
-
-<!-- <p align="left">
-    Made with love :heart::heart::heart: by <b>Edison Pebojot</b>
-</p> -->
-<!--
-<p align="left">
-    <a href="https://www.buymeacoffee.com/workpebojot">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="workpebojot" />
-    </a>
-</p>
--->
+<details open>
+    <summary>:file_folder::triangular_ruler::pencil2: Packages</summary>
+    <ul>
+        <li>
+            <a href="https://github.com/workpebojot/Vacuum/projects/2">
+            Vacuum
+            </a>
+        </li>
+    </ul>
+</details>
