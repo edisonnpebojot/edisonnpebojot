@@ -1,29 +1,6 @@
-<b>:file_folder: Repositories</b>
-    <ul>
-        <li>
-            <a href="https://github.com/workpebojot/Vacuum">
-            Vacuum
-            </a>
-        </li>
-    </ul>
-
-<b>:triangular_ruler: Projects</b>
-    <ul>
-        <li>
-            <a href="https://github.com/users/workpebojot/projects/2">
-            Vacuum
-            </a>
-        </li>
-    </ul>
-
-<b>:package: Packages</b>
-    <ul>
-        <li>
-            <a href="https://github.com/workpebojot/Vacuum-Source-Code/packages/577228">
-            vacuum-source-code 1.0.0
-            </a>
-        </li>
-    </ul>
+| <b>:file_folder: Repositories</b> | <b>:triangular_ruler: Projects</b> | <b>:package: Packages</b> |
+| ---------------------------------| ---------------------------------------| ---------------------------------------
+|     <ul><li><a href="https://github.com/workpebojot/Vacuum">Vacuum</a></li></ul> | <ul><li><a href="https://github.com/users/workpebojot/projects/2">Vacuum</a></li></ul> | <ul><li><a href="https://github.com/workpebojot/Vacuum-Source-Code/packages/577228">vacuum-source-code 1.0.0</a></li></ul>
 
 <details>
     <summary><b>More About Edison Pebojot</b></summary>
