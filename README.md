@@ -1,6 +1,6 @@
 | <b>:file_folder: Repositories</b> | <b>:triangular_ruler: Projects</b> | <b>:package: Packages</b> |
 | ---------------------------------| ---------------------------------------| ---------------------------------------
-| <a href="https://github.com/workpebojot/Vaccum">Vaccum</a> | <a href="https://github.com/users/workpebojot/projects/2">Vaccum</a> | <a href="https://github.com/workpebojot/Vaccum-Source-Code/packages/646967">vaccum-source-code 0.9.14</a>
+| <a href="https://github.com/workpebojot/Vaccum">Vaccum</a> | <a href="https://github.com/users/workpebojot/projects/2">Vaccum</a> | <a href="https://github.com/workpebojot/Vaccum-Source-Code/packages/646967">vaccum-source-code 1.11.14</a>
 
 <details>
     <summary><b>More About Edison Pebojot</b></summary>
