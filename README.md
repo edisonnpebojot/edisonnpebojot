@@ -57,6 +57,7 @@
 <details>
 <summary>:capital_abcd::wrench::book: Status and Condition</summary>
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workpebojot&langs_count=8&layout=compact)](https://github.com/workpebojot/github-readme-stats)
 
 </details>
