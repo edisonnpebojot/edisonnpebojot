@@ -6,7 +6,7 @@
     <summary><b>More About Edison Pebojot</b></summary>
     <p>
     <details>
-    <summary>:bust_in_silhouette::bust_in_silhouette::bust_in_silhouette: About Edison Pebojot</summary>
+    <summary>:bust_in_silhouette: About Edison Pebojot</summary>
 
 - 🔭 I’m currently working on [The Vacuum Project](https://github.com/workpebojot/Vacuum)
 
@@ -32,7 +32,7 @@
 
 <p>
 <details>
-    <summary>:iphone::iphone::iphone: Network and Connection</summary>
+    <summary>:iphone: Network and Connection</summary>
 
 <p align="left">
 <a href="https://dev.to/workpebojot" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38276345/103168116-7ebdca80-486b-11eb-8c2e-a6977f2f7464.png" alt="workpebojot" /></a>
@@ -49,7 +49,7 @@
 
 <p>
 <details>
-<summary>:capital_abcd::wrench:🔨 Language and Technologies</summary>
+<summary>:wrench:🔨 Language and Technologies</summary>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank">
         <img src="https://en.wikipedia.org/wiki/File:Android_robot_2014.svg" alt="android" width="40" height="40"/>
@@ -174,7 +174,7 @@
 </p>
 
 <details>
-<summary>:capital_abcd::wrench::book: Status and Condition</summary>
+<summary>:book: Status and Condition</summary>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workpebojot&langs_count=8&layout=compact)](https://github.com/workpebojot/github-readme-stats)
