@@ -49,7 +49,7 @@
 
 <p>
 <details>
-<summary>:wrench:🔨 Language and Technologies</summary>
+<summary>🔨 Language and Technologies</summary>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank">
         <img src="https://en.wikipedia.org/wiki/File:Android_robot_2014.svg" alt="android" width="40" height="40"/>
