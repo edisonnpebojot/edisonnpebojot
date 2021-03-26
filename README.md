@@ -1,7 +1,7 @@
 | <b>:file_folder: Repositories</b> | <b>:triangular_ruler: Projects</b> | <b>:package: Packages</b> |
 | ---------------------------------| ---------------------------------------| ---------------------------------------
-| <a href="https://github.com/workpebojot/Vacuum">Vaccum</a> | <a href="https://github.com/users/workpebojot/projects/2">Vaccum</a> | <a href="https://github.com/workpebojot/Vaccum-Source-Code/packages/646967">vaccum-source-code 1.11.14</a>
-| <a href="https://github.com/workpebojot/Muon">Muon</a> | <a href="https://github.com/users/workpebojot/projects/3">Muon</a> | <a href="https://github.com/workpebojot/muon-source-code/packages/684661">muon-source-code 0.2.0</a>
+| <a href="https://github.com/workpebojot/Vacuum">Vaccum</a> | <a href="https://github.com/users/workpebojot/projects/2">Vaccum</a> | <a href="https://github.com/workpebojot/Vaccum-Source-Code/packages/646967">1.11.14</a>
+| <a href="https://github.com/workpebojot/Muon">Muon</a> | <a href="https://github.com/users/workpebojot/projects/3">Muon</a> | <a href="https://github.com/workpebojot/muon-source-code/packages/684661">0.2.0</a>
 
 
 <details>
