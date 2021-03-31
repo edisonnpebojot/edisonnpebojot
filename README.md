@@ -1,7 +1,9 @@
-| <b>:file_folder: Repositories</b> | <b>:triangular_ruler: Projects</b> | <b>:package: Packages</b> |
-| ---------------------------------| ---------------------------------------| ---------------------------------------
-| <a href="https://github.com/workpebojot/Vacuum">Vaccum</a> | <a href="https://github.com/users/workpebojot/projects/2">Vaccum</a> | <a href="https://github.com/workpebojot/Vaccum-Source-Code/packages/646967">1.11.14</a>
-| <a href="https://github.com/workpebojot/Muon">Muon</a> | <a href="https://github.com/users/workpebojot/projects/3">Muon</a> | <a href="https://github.com/workpebojot/muon-source-code/packages/684661">0.2.0</a>
+| <b>:file_folder: Repositories</b> | <b>:triangular_ruler: Projects</b> | <b>:package: Packages</b> | <b>:card_file_box: Platform</b> |
+| ---------------------------------| ---------------------------------------| ---------------------------------------| ---------------------------------------
+| <a href="https://github.com/workpebojot/Vacuum">Vaccum</a> | <a href="https://github.com/users/workpebojot/projects/2">2.0.0</a> | <a href="https://github.com/workpebojot/Vaccum-Source-Code/packages/646967">1.11.14</a> | Android
+| <a href="https://github.com/workpebojot/Muon">Muon</a> | <a href="https://github.com/users/workpebojot/projects/3">1.0.0</a> | <a href="https://github.com/workpebojot/muon-source-code/packages/684661">0.2.0</a> | Linux / Windows
+| <a href="https://github.com/workpebojot/braindotnet">Braindotnet</a> | N/A | N/A | PWA
+| <a href="https://github.com/workpebojot/www.pebojot.com">www.pebojot.com</a> | <a href="https://github.com/workpebojot/www.pebojot.com/blob/master/CONTRIBUTE.md">1.0.0</a> | <a href="https://github.com/workpebojot/www.pebojot.com/blob/master/CONTRIBUTE.md">N/A</a> | Web
 
 
 <details>
@@ -10,23 +12,23 @@
     <details>
     <summary>:bust_in_silhouette: About Edison Pebojot</summary>
 
-- 🔭 I’m currently working on [The Vacuum Project](https://github.com/workpebojot/Vacuum)
+- 🔭 I’m currently working on [Vacuum](https://github.com/workpebojot/Vacuum)
 
 - 🌱 I’m currently learning **React Native Framework, CodeIgniter and Java Spring**
 
-- 👯 I’m looking to collaborate on [GitHub CLI](https://github.com/cli/cli)
+- 👯 I’m looking to collaborate on [Vacuum](https://github.com/workpebojot/Vacuum)
 
 - 🤝 I’m looking for help with [Facebook React Native](https://github.com/facebook/react-native)
 
-- 👨‍💻 All of my projects are available at [https://github.com/workpebojot?tab=projects](https://github.com/workpebojot?tab=projects)
+- 👨‍💻 All of my projects are available at [Project](https://github.com/workpebojot?tab=projects)
 
-- 📝 I regularly write articles on [https://dev.to/workpebojot](https://dev.to/workpebojot)
+- 📝 I regularly write articles on this [Blog](https://www.pebojot.com/blog/)
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **Vacuum**
 
-- 📫 How to reach me **pebojot.edison.work@gmail.com**
+- 📫 How to reach me **pebojot.edison.work@outlook.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/workpebojot/](https://www.linkedin.com/in/workpebojot/)
+- 📄 Know about my experiences at [About](https://www.pebojot.com/about/)
 
 - ⚡ Fun fact **Pizza**
 </details>
