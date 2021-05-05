@@ -1,9 +1,9 @@
-| <b>:file_folder: Repositories</b> | <b>:triangular_ruler: Projects</b> | <b>:package: Packages</b> | <b>:card_file_box: Platform</b> |
-| ---------------------------------| ---------------------------------------| ---------------------------------------| ---------------------------------------
-| <a href="https://github.com/workpebojot/Vacuum">Vaccum</a> | <a href="https://github.com/users/workpebojot/projects/2">2.0.0</a> | <a href="https://github.com/workpebojot/Vaccum-Source-Code/packages/646967">1.11.14</a> | Android
-| <a href="https://github.com/workpebojot/Muon">Muon</a> | <a href="https://github.com/users/workpebojot/projects/3">1.0.0</a> | <a href="https://github.com/workpebojot/muon-source-code/packages/684661">0.2.0</a> | Linux / Windows
-| <a href="https://github.com/workpebojot/braindotnet">Braindotnet</a> | N/A | N/A | PWA
-| <a href="https://github.com/workpebojot/www.pebojot.com">www.pebojot.com</a> | <a href="https://github.com/workpebojot/www.pebojot.com/blob/master/CONTRIBUTE.md">1.0.0</a> | <a href="https://github.com/workpebojot/www.pebojot.com/blob/master/CONTRIBUTE.md">N/A</a> | Web
+| <b>:file_folder: Repositories</b> | <b>:triangular_ruler: Projects</b> | <b>:package: Packages</b> |
+| ---------------------------------| ---------------------------------------| ---------------------------------------
+| <a href="https://github.com/workpebojot/Vacuum">Vaccum</a> | <a href="https://github.com/users/workpebojot/projects/2">2.0.0</a> | <a href="https://github.com/workpebojot/Vaccum-Source-Code/packages/646967">1.11.14</a>
+| <a href="https://github.com/workpebojot/Muon">Muon</a> | <a href="https://github.com/users/workpebojot/projects/3">1.0.0</a> | <a href="https://github.com/workpebojot/muon-source-code/packages/684661">0.2.0</a>
+| <a href="https://github.com/workpebojot/braindotnet">Braindotnet</a> | N/A | N/A
+| <a href="https://github.com/workpebojot/www.pebojot.com">www.pebojot.com</a> | <a href="https://github.com/workpebojot/www.pebojot.com/blob/master/CONTRIBUTE.md">1.0.0</a> | <a href="https://github.com/workpebojot/www.pebojot.com/blob/master/CONTRIBUTE.md">N/A</a>
 
 
 <details>
